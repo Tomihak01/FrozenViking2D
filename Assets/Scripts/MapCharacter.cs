@@ -6,7 +6,7 @@ public class MapCharacter : MonoBehaviour
     [SerializeField]
     public float speed;
 
-
+    //Moi hei oon isla ja muokkasin koodia
 
     void Start()
     {
