@@ -36,3 +36,4 @@ public class MapCharacter : MonoBehaviour
         }
     }
 }
+//LOL. Jan was here! :)
