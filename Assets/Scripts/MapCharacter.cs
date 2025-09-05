@@ -7,6 +7,7 @@ public class MapCharacter : MonoBehaviour
     public float speed;
 
     //Moi hei oon isla ja muokkasin koodia
+    //Moi oon Tomi
 
     void Start()
     {
